@@ -58,7 +58,7 @@ git add .
 - [x] ✅ Unit Test - `src/index.test.ts` (3 tests passing)
 - [x] ✅ MCP Server - `mcp.json` (in repo)
 - [x] ✅ LangSmith - Traces visible
-- [x] ✅ Screenshot - `langsmith-graph.png` (in README)
+- [x] ✅ Screenshot - https://image2url.com/images/1765495456134-f5635736-0ac4-4943-a4e0-82a5dcfa6377.png
 
 ## 🔗 Project Location
 
