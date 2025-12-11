@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "langgraph": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@langchain/langgraph-mcp-server"
+      ],
+      "env": {}
+    }
+  }
+}
+
